@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dellibean, I'm a Marine Sciences student at Cal Poly SLO 
+- 👋 Hi, I’m @dellibean, I'm a Marine Sciences student at Cal Poly  
 - 👀 I’m interested in marine bioacoustics, specifically Humpback and Gray Whale detection and long term passive acoustic monitoring efforts.
 - 🌱 I’m currently learning RStudio, Triton in MATLAB for processing, PAMGUARD, and am comfortable with Raven Pro 
 - 💞️ I’m looking to collaborate on ...
